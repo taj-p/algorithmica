@@ -47,7 +47,7 @@ In all further code examples, assume that they begin with these lines:
 using namespace std;
 ```
 
-We will focus on AVX2 and the previous SIMD extensions in this chapter, which should be available on 95% of all desktop and server computers, although the general principles transfer on AVX512, Arm Neon, and other SIMD architectures just as well.
+We will focus on AVX2 and the previous SIMD extensions in this chapter, which should be available on 95% of all desktop and server computers, although the general principles transfer to AVX512, Arm Neon, and other SIMD architectures just as well.
 
 ### SIMD Registers
 
